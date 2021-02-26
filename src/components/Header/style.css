@@ -1,0 +1,23 @@
+
+.header{
+    background-color: #dadde4;
+    display: flex;
+justify-content: space-between;
+margin: 10x 0;
+padding: 10px;
+}
+.headerMenu a{
+    display: inline-block;
+    margin: 0 10px ;
+    text-decoration: none;
+    color: #565673;
+    font-size: 15px;
+    letter-spacing: 1.2x;
+}
+.headerMenu a:hover{
+    color: #5f9ea0;
+}
+
+/* .social{
+    padding-left:  800px;
+} */
